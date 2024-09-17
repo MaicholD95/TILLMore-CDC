@@ -1,4 +1,4 @@
-# RootTracer Dataset Documentation
+#TIllMore Dataset Documentation
 
 ## Dataset Overview
 
@@ -56,6 +56,9 @@ RootTracer is avaiable [here](https://github.com/MaicholD95/RootTracer)
 If you use this dataset in your research, please cite the following publication:
 
 **Maichol Dadi, Alessandra Lumini, Annalisa Franco, Giuseppe Sangiorgi, Silvio Salvi**. RootTracer: An Intuitive Solution for Root Image Annotation.
+
+## Paper
+The "RootTracer: An Intuitive Solution for Root Image Annotation" paper has been submitted to Smart Agricultural Technology.
 
 ## Contact
 
