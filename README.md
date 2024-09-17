@@ -55,7 +55,7 @@ RootTracer is avaiable [here](https://github.com/MaicholD95/RootTracer)
 
 If you use this dataset in your research, please cite the following publication:
 
-**Maichol Dadi, Alessandra Lumini, Annalisa Franco, Giuseppe Sangiorgi, Silvio Salvi**. RootTracer: An Intuitive Solution for Root Image Annotation. *Computers and Electronics in Agriculture*, 2023.
+**Maichol Dadi, Alessandra Lumini, Annalisa Franco, Giuseppe Sangiorgi, Silvio Salvi**. RootTracer: An Intuitive Solution for Root Image Annotation.
 
 ## Contact
 
