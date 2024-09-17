@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rsml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <version>1.0</version>
+    <unit>pixel</unit>
+    <resolution>xxx dpi</resolution>
+    <last-modified>6/25/2024 12:17:44 PM</last-modified>
+    <software>RSMLGenerator</software>
+    <user>User123</user>
+    <file-key>439R</file-key>
+  </metadata>
+  <scene>
+    <plant ID="1" label="barley">
+      <annotations>annotation</annotations>
+    </plant>
+    <plant ID="2" label="barley">
+      <annotations>annotation</annotations>
+    </plant>
+    <plant ID="3" label="barley">
+      <annotations>annotation</annotations>
+      <root ID="3.12" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="295" y="332" />
+            <point x="302" y="380" />
+            <point x="324" y="419" />
+            <point x="346" y="462" />
+            <point x="361" y="508" />
+            <point x="378" y="552" />
+            <point x="400" y="595" />
+            <point x="421" y="637" />
+            <point x="438" y="683" />
+            <point x="453" y="728" />
+            <point x="470" y="772" />
+            <point x="489" y="816" />
+            <point x="515" y="857" />
+            <point x="547" y="891" />
+            <point x="583" y="924" />
+            <point x="620" y="954" />
+            <point x="656" y="985" />
+            <point x="692" y="1018" />
+            <point x="729" y="1048" />
+            <point x="767" y="1077" />
+            <point x="804" y="1108" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="3.13" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="295" y="332" />
+            <point x="293" y="390" />
+            <point x="298" y="423" />
+            <point x="288" y="467" />
+            <point x="281" y="513" />
+            <point x="273" y="559" />
+            <point x="271" y="607" />
+            <point x="269" y="653" />
+            <point x="268" y="699" />
+            <point x="266" y="745" />
+            <point x="268" y="791" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="3.14" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="295" y="332" />
+            <point x="302" y="380" />
+            <point x="300" y="426" />
+            <point x="307" y="474" />
+            <point x="312" y="522" />
+            <point x="317" y="568" />
+            <point x="327" y="615" />
+            <point x="324" y="663" />
+            <point x="317" y="711" />
+            <point x="307" y="758" />
+            <point x="295" y="804" />
+            <point x="278" y="849" />
+            <point x="257" y="893" />
+            <point x="235" y="936" />
+            <point x="211" y="977" />
+            <point x="182" y="1016" />
+            <point x="158" y="1057" />
+            <point x="145" y="1103" />
+            <point x="138" y="1150" />
+            <point x="136" y="1200" />
+            <point x="136" y="1248" />
+            <point x="141" y="1295" />
+            <point x="145" y="1343" />
+            <point x="153" y="1391" />
+            <point x="162" y="1437" />
+            <point x="174" y="1485" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="3.15" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="295" y="332" />
+            <point x="302" y="380" />
+            <point x="319" y="421" />
+            <point x="322" y="476" />
+            <point x="332" y="523" />
+            <point x="336" y="564" />
+            <point x="327" y="617" />
+            <point x="322" y="665" />
+            <point x="317" y="712" />
+            <point x="307" y="760" />
+            <point x="293" y="808" />
+            <point x="276" y="852" />
+            <point x="256" y="896" />
+            <point x="233" y="939" />
+            <point x="208" y="982" />
+            <point x="193" y="1024" />
+            <point x="186" y="1072" />
+            <point x="186" y="1118" />
+            <point x="182" y="1167" />
+            <point x="186" y="1215" />
+            <point x="189" y="1263" />
+            <point x="193" y="1311" />
+            <point x="198" y="1360" />
+            <point x="196" y="1408" />
+            <point x="198" y="1456" />
+            <point x="199" y="1503" />
+          </rootnavspline>
+        </geometry>
+      </root>
+    </plant>
+    <plant ID="4" label="barley">
+      <annotations>annotation</annotations>
+      <root ID="4.1" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="653" y="327" />
+            <point x="680" y="363" />
+            <point x="736" y="363" />
+            <point x="789" y="363" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="4.2" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="653" y="327" />
+            <point x="671" y="351" />
+            <point x="695" y="375" />
+            <point x="717" y="392" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="4.3" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="653" y="327" />
+            <point x="636" y="344" />
+            <point x="620" y="395" />
+            <point x="607" y="455" />
+            <point x="603" y="489" />
+            <point x="610" y="532" />
+            <point x="624" y="585" />
+            <point x="639" y="629" />
+            <point x="653" y="672" />
+            <point x="678" y="726" />
+            <point x="697" y="760" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="4.4" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="653" y="327" />
+            <point x="648" y="355" />
+            <point x="695" y="438" />
+            <point x="721" y="479" />
+            <point x="769" y="535" />
+            <point x="818" y="579" />
+            <point x="866" y="620" />
+            <point x="898" y="648" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="4.5" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="653" y="327" />
+            <point x="663" y="394" />
+            <point x="653" y="430" />
+            <point x="663" y="462" />
+            <point x="688" y="491" />
+            <point x="729" y="527" />
+            <point x="765" y="549" />
+            <point x="794" y="573" />
+            <point x="850" y="619" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="4.6" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="653" y="327" />
+            <point x="651" y="387" />
+            <point x="641" y="474" />
+            <point x="656" y="503" />
+            <point x="685" y="525" />
+            <point x="726" y="535" />
+            <point x="791" y="583" />
+            <point x="815" y="610" />
+            <point x="844" y="636" />
+            <point x="879" y="661" />
+          </rootnavspline>
+        </geometry>
+      </root>
+    </plant>
+    <plant ID="5" label="barley">
+      <annotations>annotation</annotations>
+      <root ID="5.1" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="1026" y="334" />
+            <point x="1079" y="378" />
+            <point x="1126" y="416" />
+            <point x="1179" y="443" />
+            <point x="1213" y="476" />
+            <point x="1215" y="503" />
+            <point x="1215" y="547" />
+            <point x="1237" y="579" />
+            <point x="1263" y="617" />
+            <point x="1310" y="666" />
+            <point x="1358" y="719" />
+            <point x="1377" y="748" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="5.2" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="1026" y="334" />
+            <point x="1029" y="366" />
+            <point x="1050" y="395" />
+            <point x="1075" y="438" />
+            <point x="1097" y="482" />
+            <point x="1111" y="532" />
+            <point x="1126" y="564" />
+            <point x="1155" y="586" />
+            <point x="1186" y="607" />
+            <point x="1227" y="641" />
+            <point x="1247" y="661" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="5.3" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="1026" y="334" />
+            <point x="1031" y="356" />
+            <point x="1036" y="373" />
+            <point x="1036" y="402" />
+            <point x="1039" y="448" />
+            <point x="1055" y="515" />
+            <point x="1079" y="648" />
+            <point x="1101" y="687" />
+            <point x="1130" y="714" />
+            <point x="1160" y="736" />
+            <point x="1196" y="770" />
+            <point x="1241" y="813" />
+            <point x="1275" y="847" />
+            <point x="1295" y="873" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="5.4" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="1026" y="334" />
+            <point x="1002" y="440" />
+            <point x="1000" y="498" />
+            <point x="1026" y="626" />
+            <point x="1038" y="682" />
+            <point x="1045" y="724" />
+            <point x="1057" y="758" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="5.5" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="1026" y="334" />
+            <point x="1017" y="368" />
+            <point x="1005" y="402" />
+            <point x="988" y="496" />
+            <point x="963" y="559" />
+            <point x="942" y="581" />
+            <point x="929" y="646" />
+            <point x="924" y="706" />
+            <point x="918" y="750" />
+            <point x="922" y="784" />
+            <point x="918" y="850" />
+            <point x="920" y="886" />
+            <point x="930" y="917" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="5.6" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="1026" y="334" />
+            <point x="1007" y="370" />
+            <point x="997" y="411" />
+            <point x="961" y="540" />
+            <point x="908" y="658" />
+            <point x="879" y="712" />
+            <point x="859" y="747" />
+            <point x="859" y="781" />
+            <point x="864" y="813" />
+            <point x="876" y="842" />
+            <point x="901" y="873" />
+            <point x="920" y="910" />
+            <point x="937" y="953" />
+            <point x="961" y="999" />
+            <point x="982" y="1050" />
+            <point x="1004" y="1096" />
+            <point x="1022" y="1127" />
+          </rootnavspline>
+        </geometry>
+      </root>
+    </plant>
+  </scene>
+</rsml>
