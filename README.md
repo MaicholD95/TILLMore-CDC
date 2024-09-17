@@ -12,6 +12,7 @@ The dataset includes high-resolution images of plant root systems, specifically 
 - **Number of Images:** 109 high-resolution root images
 - **Annotation Type:** Manual root tracing using RootTracer tool, saved in RSML format or Json format
 
+The test images used in the paper 'Deep Learning for Root System Extraction from Barley Plants,' presented at the ICPRS24 conference, are included in the 'test2' folder.
 ## Data Structure
 
 ### Folder Structure:
