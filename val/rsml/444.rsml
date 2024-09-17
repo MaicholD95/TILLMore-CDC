@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rsml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <version>1.0</version>
+    <unit>pixel</unit>
+    <resolution>xxx dpi</resolution>
+    <last-modified>6/25/2024 4:58:36 PM</last-modified>
+    <software>RSMLGenerator</software>
+    <user>User123</user>
+    <file-key>444</file-key>
+  </metadata>
+  <scene>
+    <plant ID="1" label="barley">
+      <annotations>annotation</annotations>
+      <root ID="1.1" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="311" y="362" />
+            <point x="344" y="394" />
+            <point x="381" y="426" />
+          </rootnavspline>
+        </geometry>
+      </root>
+      <root ID="1.2" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="311" y="362" />
+            <point x="319" y="397" />
+            <point x="322" y="435" />
+            <point x="324" y="472" />
+          </rootnavspline>
+        </geometry>
+      </root>
+    </plant>
+    <plant ID="2" label="barley">
+      <annotations>annotation</annotations>
+      <root ID="2.3" label="primary">
+        <geometry>
+          <rootnavspline controlpointseparation="50" tension="0.5">
+            <point x="1064" y="367" />
+            <point x="1059" y="394" />
+            <point x="1059" y="418" />
+          </rootnavspline>
+        </geometry>
+      </root>
+    </plant>
+  </scene>
+</rsml>
