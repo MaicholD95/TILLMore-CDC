@@ -63,6 +63,7 @@ RootTracer is avaiable [here](https://github.com/MaicholD95/RootTracer)
 If you use this dataset in your research, please cite the following publication:
 
 [1] **Maichol Dadi, Alessandra Lumini, Annalisa Franco, Giuseppe Sangiorgi, Silvio Salvi**. RootTracer: An Intuitive Solution for Root Image Annotation submitted to Smart Agricultural Technology.
+
 [2] **Maichol Dadi, Alessandra Lumini, Annalisa Franco, Giuseppe Sangiorgi**. Deep Learning for Root System Extraction from Barley Plants,in proc. of ICPRS24.
 
 
