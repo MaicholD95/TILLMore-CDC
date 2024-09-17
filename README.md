@@ -2,7 +2,7 @@
 
 ## Dataset Overview
 
-The dataset used in the [**RootTracer**](https://github.com/MaicholD95/RootTracer) tool is focused on high-resolution images of plant root systems, specifically barley plants. This dataset provides ground truth annotations for root images, stored in RSML (Root System Markup Language) format, enabling efficient root phenotyping and segmentation for machine learning models.
+The dataset includes high-resolution images of plant root systems, specifically barley plants. This dataset provides ground truth annotations for root images (labelled by the [**RootTracer**](https://github.com/MaicholD95/RootTracer) tool), stored in RSML (Root System Markup Language) format, enabling efficient root phenotyping and segmentation for machine learning models.
 
 ### Key Features:
 - **Plant Type:** Barley (*Hordeum vulgare*)
