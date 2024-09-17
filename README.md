@@ -12,9 +12,14 @@ The dataset includes high-resolution images of plant root systems, specifically 
 - **Number of Images:** 109 high-resolution root images
 - **Annotation Type:** Manual root tracing using RootTracer tool, saved in RSML format or Json format
 
-The test images used in the paper 'Deep Learning for Root System Extraction from Barley Plants,' presented at the ICPRS24 conference, are included in the 'test2' folder.
+
 ## Data Structure
 
+### Splits
+- **train/**: Contains 90 images
+- **test/**: Contains 10 images
+- **test2/**: Contains 10 images (wiht more simple root strucure), The test images used in the paper [2]
+  
 ### Folder Structure:
 - **images/**: Contains the raw high-resolution images of the plant root systems.
 - **rsml/**: Contains the RSML files corresponding to each image, with the annotated root systems.
@@ -52,14 +57,14 @@ The dataset is designed for use with the **RootTracer** tool for plant phenotypi
 
 ## RootTracer Tool
 RootTracer is avaiable [here](https://github.com/MaicholD95/RootTracer)
+
 ## Citation
 
 If you use this dataset in your research, please cite the following publication:
 
-**Maichol Dadi, Alessandra Lumini, Annalisa Franco, Giuseppe Sangiorgi, Silvio Salvi**. RootTracer: An Intuitive Solution for Root Image Annotation.
+[1] **Maichol Dadi, Alessandra Lumini, Annalisa Franco, Giuseppe Sangiorgi, Silvio Salvi**. RootTracer: An Intuitive Solution for Root Image Annotation submitted to Smart Agricultural Technology.
+[2] **Maichol Dadi, Alessandra Lumini, Annalisa Franco, Giuseppe Sangiorgi**. Deep Learning for Root System Extraction from Barley Plants,in proc. of ICPRS24.
 
-## Paper
-The "RootTracer: An Intuitive Solution for Root Image Annotation" paper has been submitted to Smart Agricultural Technology.
 
 ## Contact
 
