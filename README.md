@@ -23,7 +23,6 @@ The dataset includes high-resolution images of plant root systems, specifically 
 ### Folder Structure:
 - **images/**: Contains the raw high-resolution images of the plant root systems.
 - **rsml/**: Contains the RSML files corresponding to each image, with the annotated root systems.
-- **json/**: Contains json files with the annotated root points.
   
 ### File Types:
 - **Images**: High-resolution  `.jpg` files of the plant root systems.
