@@ -9,16 +9,16 @@ The dataset includes high-resolution images of plant root systems, specifically 
 - **Original Resolution:** 6000x4000 pixels -> cropped and resized
 - **Image Format:**  `.jpg`
 - **Annotation Format:** RSML
-- **Number of Images:** 109 high-resolution root images
+- **Number of Images:** 111 high-resolution root images
 - **Annotation Type:** Manual root tracing using RootTracer tool, saved in RSML format or Json format
 
 
 ## Data Structure
 
 ### Splits
-- **train/**: Contains 88 images
+- **train/**: Contains 90 images
 - **test/**: Contains 10 images
-- **test2/**: Contains 11 images (with more simple root strucure), The test images used in the paper [2]
+- **test2/**: Contains 10 images (with more simple root strucure), The test images used in the paper [2]
   
 ### Folder Structure:
 - **images/**: Contains the raw high-resolution images of the plant root systems.
