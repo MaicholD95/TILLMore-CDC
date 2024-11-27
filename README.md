@@ -1,4 +1,4 @@
-## TIllMore CDC Dataset Documentation
+## TILLMore CDC Dataset Documentation
 
 ## Dataset Overview
 
