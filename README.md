@@ -18,7 +18,8 @@ The dataset includes high-resolution images of plant root systems, specifically 
 ### Splits
 - **train/**: Contains 90 images
 - **test/**: Contains 10 images
-- **test2/**: Contains 11 images (with more simple root strucure), The test images used in the paper [2]
+- **test2/**: Contains 11 images (with more simple root strucure), the test images used in the paper [2]
+- **test3/**: Contains 11 images,the test images used in the paper [3]
   
 ### Folder Structure:
 - **images/**: Contains the raw high-resolution images of the plant root systems.
@@ -64,6 +65,9 @@ If you use this dataset in your research, please cite the following publication:
 [1] **Maichol Dadi, Alessandra Lumini, Annalisa Franco, Giuseppe Sangiorgi, Silvio Salvi**. RootTracer: An Intuitive Solution for Root Image Annotation submitted to Smart Agricultural Technology.
 
 [2] **Maichol Dadi, Alessandra Lumini, Annalisa Franco, Giuseppe Sangiorgi**. Deep Learning for Root System Extraction from Barley Plants,in proc. of ICPRS24.
+
+[3] **Maichol Dadi, Alessandra Lumini, Annalisa Franco**. RootEx: An automated method for barley root system extraction and evaluation, Computers and Electronics in Agriculture.
+
 
 
 ## Contact
