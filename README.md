@@ -66,7 +66,7 @@ If you use this dataset in your research, please cite the following publication:
 
 [2] **Maichol Dadi, Alessandra Lumini, Annalisa Franco, Giuseppe Sangiorgi**. Deep Learning for Root System Extraction from Barley Plants,in proc. of ICPRS24.
 
-[3] **Maichol Dadi, Alessandra Lumini, Annalisa Franco**. RootEx: An automated method for barley root system extraction and evaluation, Computers and Electronics in Agriculture.
+[3] **Maichol Dadi, Alessandra Lumini, Annalisa Franco**.RootEx: An automated method for barley root system extraction and evaluation,Computers and Electronics in Agriculture,Volume 230,2025,110030,ISSN 0168-1699,https://doi.org/10.1016/j.compag.2025.110030.
 
 
 
