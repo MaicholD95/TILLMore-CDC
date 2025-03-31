@@ -19,7 +19,7 @@ The dataset includes high-resolution images of plant root systems, specifically 
 - **train/**: Contains 90 images
 - **test/**: Contains 10 images
 - **test2/**: Contains 11 images (with more simple root strucure), the test images used in the paper [2]
-- **test3/**: Contains 11 images,the test images used in the paper [3]
+- **test3/**: Contains 10 images,the test images used in the paper [3]
   
 ### Folder Structure:
 - **images/**: Contains the raw high-resolution images of the plant root systems.
